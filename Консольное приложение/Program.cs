@@ -53,6 +53,13 @@ namespace Консольное_приложение
                     Console.WriteLine("Not the right thing");
                     break;
             }
+            Console.WriteLine(Convert.ToString(a + b, 2) + " В двоичной системе счисления");
+            Console.WriteLine(Convert.ToString(a + b, 8) + " В восьмеричной системе счисления");
+            Console.WriteLine(Convert.ToString(a + b, 16) + " В шестнадцатеричной системе счисления");
+
+            Console.Write("Введите также систему которой здесь нет, если она необходима: ");
+            Console.WriteLine(Convert.ToString(a + b, Convert.ToInt32(Console.ReadLine())));
+
             Console.ReadKey();
         }
     }
