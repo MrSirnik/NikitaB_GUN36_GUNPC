@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Массивы\bin\Debug\Массивы.exe.config
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Массивы\bin\Debug\Массивы.exe
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Массивы\bin\Debug\Массивы.pdb
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Массивы\obj\Debug\Массивы.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Массивы\obj\Debug\Массивы.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Массивы\obj\Debug\Массивы.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Массивы\obj\Debug\Массивы.exe
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Массивы\obj\Debug\Массивы.pdb
