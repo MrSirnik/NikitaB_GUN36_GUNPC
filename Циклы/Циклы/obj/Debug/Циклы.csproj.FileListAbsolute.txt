@@ -1,0 +1,7 @@
+C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\Циклы\Циклы\bin\Debug\Циклы.exe.config
+C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\Циклы\Циклы\bin\Debug\Циклы.exe
+C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\Циклы\Циклы\bin\Debug\Циклы.pdb
+C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\Циклы\Циклы\obj\Debug\Циклы.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\Циклы\Циклы\obj\Debug\Циклы.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\Циклы\Циклы\obj\Debug\Циклы.exe
+C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\Циклы\Циклы\obj\Debug\Циклы.pdb
