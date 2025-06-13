@@ -24,6 +24,8 @@ namespace Консольное_приложение
                 return;
             }
             var sign = Console.ReadLine();
+            float result = 0;
+
             if (sign.Length == 0 || sign.Length > 1)
             {
                 Console.WriteLine("Wrong sign");
@@ -34,30 +36,35 @@ namespace Консольное_приложение
             switch (sign[0])
             {
                 case '+':
-                    Console.WriteLine("Result of {0} + {1} = {2}", a, b, a + b);
+                    result = a + b;
+                    Console.WriteLine("Result of {0} + {1} = {2}", a, b, result);
                     break;
                 case '-':
-                    Console.WriteLine("Result of {0} - {1} = {2}", a, b, a - b);
+                    result = a - b;
+                    Console.WriteLine("Result of {0} - {1} = {2}", a, b, result);
                     break;
                 case '*':
-                    Console.WriteLine("Result of {0} * {1} = {2}", a, b, a * b);
+                    result = a * b;
+                    Console.WriteLine("Result of {0} * {1} = {2}", a, b, result);
                     break;
                 case '/':
-                    Console.WriteLine("Result of {0} / {1} = {2}", a, b, a / b);
+                    result = a / b;
+                    Console.WriteLine("Result of {0} / {1} = {2}", a, b, result);
                     break;
                 case '%':
-                    Console.WriteLine("Result of {0} % {1} = {2}", a, b, a % b);
+                    result = a % b;
+                    Console.WriteLine("Result of {0} % {1} = {2}", a, b, result);
                     break;
                 default: 
                     Console.WriteLine("Not the right thing");
                     break;
             }
-            Console.WriteLine(" В двоичной системе счисления            " + Convert.ToString(a + b, 2));
-            Console.WriteLine(" В восьмеричной системе счисления        " + Convert.ToString(a + b, 8));
-            Console.WriteLine(" В шестнадцатеричной системе счисления   " + Convert.ToString(a + b, 16));
+            Console.WriteLine(" В двоичной системе счисления            " + Convert.ToString(Convert.ToInt32(result), 2));
+            Console.WriteLine(" В восьмеричной системе счисления        " + Convert.ToString(Convert.ToInt32(result), 8));
+            Console.WriteLine(" В шестнадцатеричной системе счисления   " + Convert.ToString(Convert.ToInt32(result), 16));
 
             Console.Write(" Введите также систему которой здесь нет, если она необходима: ");
-            Console.WriteLine(Convert.ToString(a + b, Convert.ToInt32(Console.ReadLine())));
+            Console.WriteLine(Convert.ToString(Convert.ToInt32(result), Convert.ToInt32(Console.ReadLine())));
 
             Console.ReadKey();
         }
