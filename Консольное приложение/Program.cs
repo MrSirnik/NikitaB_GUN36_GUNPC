@@ -23,16 +23,15 @@ namespace Консольное_приложение
                 Console.ReadKey();
                 return;
             }
-            var s = Console.ReadLine();
-            var boolVar = true;
-            if (s.Length == 0 || s.Length > 1 && !boolVar)
+            var sign = Console.ReadLine();
+            if (sign.Length == 0 || sign.Length > 1)
             {
                 Console.WriteLine("Wrong sign");
                 Console.ReadKey();
                 return;
             }
 
-            switch (s[0])
+            switch (sign[0])
             {
                 case '+':
                     Console.WriteLine("Result of {0} + {1} = {2}", a, b, a + b);
@@ -53,11 +52,11 @@ namespace Консольное_приложение
                     Console.WriteLine("Not the right thing");
                     break;
             }
-            Console.WriteLine(Convert.ToString(a + b, 2) + " В двоичной системе счисления");
-            Console.WriteLine(Convert.ToString(a + b, 8) + " В восьмеричной системе счисления");
-            Console.WriteLine(Convert.ToString(a + b, 16) + " В шестнадцатеричной системе счисления");
+            Console.WriteLine(" В двоичной системе счисления            " + Convert.ToString(a + b, 2));
+            Console.WriteLine(" В восьмеричной системе счисления        " + Convert.ToString(a + b, 8));
+            Console.WriteLine(" В шестнадцатеричной системе счисления   " + Convert.ToString(a + b, 16));
 
-            Console.Write("Введите также систему которой здесь нет, если она необходима: ");
+            Console.Write(" Введите также систему которой здесь нет, если она необходима: ");
             Console.WriteLine(Convert.ToString(a + b, Convert.ToInt32(Console.ReadLine())));
 
             Console.ReadKey();

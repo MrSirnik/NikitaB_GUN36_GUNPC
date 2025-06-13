@@ -6,3 +6,10 @@ C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Консольное приложен�
 C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Консольное приложение\obj\Debug\Консольное приложение.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Консольное приложение\obj\Debug\Консольное приложение.exe
 C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Консольное приложение\obj\Debug\Консольное приложение.pdb
+C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\Консольное приложение\bin\Debug\Консольное приложение.exe.config
+C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\Консольное приложение\bin\Debug\Консольное приложение.exe
+C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\Консольное приложение\bin\Debug\Консольное приложение.pdb
+C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\Консольное приложение\obj\Debug\Консольное приложение.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\Консольное приложение\obj\Debug\Консольное приложение.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\Консольное приложение\obj\Debug\Консольное приложение.exe
+C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\Консольное приложение\obj\Debug\Консольное приложение.pdb
