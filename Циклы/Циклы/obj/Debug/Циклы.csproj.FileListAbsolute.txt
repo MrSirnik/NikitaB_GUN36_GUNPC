@@ -5,3 +5,11 @@ C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\Циклы\Циклы\obj\Debug\Цик�
 C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\Циклы\Циклы\obj\Debug\Циклы.csproj.CoreCompileInputs.cache
 C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\Циклы\Циклы\obj\Debug\Циклы.exe
 C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\Циклы\Циклы\obj\Debug\Циклы.pdb
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Циклы\Циклы\bin\Debug\Циклы.exe.config
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Циклы\Циклы\bin\Debug\Циклы.exe
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Циклы\Циклы\bin\Debug\Циклы.pdb
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Циклы\Циклы\obj\Debug\Циклы.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Циклы\Циклы\obj\Debug\Циклы.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Циклы\Циклы\obj\Debug\Циклы.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Циклы\Циклы\obj\Debug\Циклы.exe
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Циклы\Циклы\obj\Debug\Циклы.pdb

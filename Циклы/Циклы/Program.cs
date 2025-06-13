@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -38,7 +39,29 @@ namespace Циклы
             Console.WriteLine("-------------------------------------");
             //Multiplication table
 
+            for(int i = 1; i < 6; i++)
+            {
+                for (int j = 1; j < 11; j++)
+                {
+                    Console.WriteLine($"{i} * {j} = { i * j }");
+                }
+                Console.WriteLine();
+            }
 
+            Console.WriteLine("-------------------------------------");
+            //Password
+
+            string password = "qwerty";
+            do
+            {
+                Console.WriteLine("Введите пароль: ");
+
+
+            } while (password != Console.ReadLine());
+
+            Console.WriteLine("Это правильный пароль");
+
+            Console.ReadLine();
         }
     }
 }
