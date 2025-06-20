@@ -2,13 +2,19 @@
 {
     class Unit
     {
-        public string Name;
+        public string Name = "Unknown Unit";
         private float _Health;
         public int Damage;
         public float Armor;
-        public void Character_name(string name = "Unknown Unit")
+        public void Character_name()
         {
-            Name = name;
+            _Health = 100f;
+            Damage = 5;
+            Armor = 0.6f;
+        }
+        public void Character_name(string Name)
+        {
+            this.Name = Name;
             _Health = 100f;
             Damage = 5;
             Armor = 0.6f;
