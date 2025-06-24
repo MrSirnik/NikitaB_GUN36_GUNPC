@@ -1,33 +1,32 @@
 ﻿namespace Классы
-{
+{ 
     class Unit
     {
-        public string Name = "Unknown Unit";
-        private float _Health;
-        public int Damage;
-        public float Armor;
-        public void Character_name()
+        public string Name { get; }
+        private float _health;
+        public float Health
         {
-            _Health = 100f;
-            Damage = 5;
-            Armor = 0.6f;
+            get { return _health; }
         }
-        public void Character_name(string Name)
+        public int Damage { get; }
+        public float Armor { get; }
+        public Unit() : this("Unknown Unit") { }
+        public Unit(string name)
         {
-            this.Name = Name;
-            _Health = 100f;
+            Name = name;
+            _health = 100f;
             Damage = 5;
             Armor = 0.6f;
         }
         public float GetRealHealth()
         {
             
-            return _Health * (1f + Armor);
+            return Health * (1f + Armor);
         }
         public bool SetDamage( float value )
         {
-            _Health = _Health - value * Armor;
-            if (_Health <= 0f) { return true; }
+            _health = Health - value * Armor;
+            if (Health <= 0f) { return true; }
             else { return false; }
         }
 
@@ -36,7 +35,11 @@
     {
         static void Main(string[] args)
         {
-            
+            Unit unit1 = new Unit();
+            Unit unit2 = new Unit("Hero");
+
+            Console.WriteLine(unit1.Name);
+            Console.WriteLine(unit2.Name);
         }
     }
 }

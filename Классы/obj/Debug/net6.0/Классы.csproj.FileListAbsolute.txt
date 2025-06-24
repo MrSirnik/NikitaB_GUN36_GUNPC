@@ -3,3 +3,13 @@ C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Классы\obj\Debug\net6.0\Клас
 C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Классы\obj\Debug\net6.0\Классы.AssemblyInfoInputs.cache
 C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Классы\obj\Debug\net6.0\Классы.AssemblyInfo.cs
 C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Классы\obj\Debug\net6.0\Классы.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Классы\bin\Debug\net6.0\Классы.exe
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Классы\bin\Debug\net6.0\Классы.deps.json
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Классы\bin\Debug\net6.0\Классы.runtimeconfig.json
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Классы\bin\Debug\net6.0\Классы.dll
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Классы\bin\Debug\net6.0\Классы.pdb
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Классы\obj\Debug\net6.0\Классы.dll
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Классы\obj\Debug\net6.0\refint\Классы.dll
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Классы\obj\Debug\net6.0\Классы.pdb
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Классы\obj\Debug\net6.0\Классы.genruntimeconfig.cache
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\Классы\obj\Debug\net6.0\ref\Классы.dll
