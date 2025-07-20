@@ -1,0 +1,8 @@
+D:\jeruvhhfvhhhvuiwhefuihdhjcnwleiufh\Desktop\C#\NikitaB_GUN36_GUNPC\Коллекции\Коллекции\bin\Debug\Коллекции.exe.config
+D:\jeruvhhfvhhhvuiwhefuihdhjcnwleiufh\Desktop\C#\NikitaB_GUN36_GUNPC\Коллекции\Коллекции\bin\Debug\Коллекции.exe
+D:\jeruvhhfvhhhvuiwhefuihdhjcnwleiufh\Desktop\C#\NikitaB_GUN36_GUNPC\Коллекции\Коллекции\bin\Debug\Коллекции.pdb
+D:\jeruvhhfvhhhvuiwhefuihdhjcnwleiufh\Desktop\C#\NikitaB_GUN36_GUNPC\Коллекции\Коллекции\obj\Debug\Коллекции.csproj.AssemblyReference.cache
+D:\jeruvhhfvhhhvuiwhefuihdhjcnwleiufh\Desktop\C#\NikitaB_GUN36_GUNPC\Коллекции\Коллекции\obj\Debug\Коллекции.csproj.CoreCompileInputs.cache
+D:\jeruvhhfvhhhvuiwhefuihdhjcnwleiufh\Desktop\C#\NikitaB_GUN36_GUNPC\Коллекции\Коллекции\obj\Debug\Коллекции.exe
+D:\jeruvhhfvhhhvuiwhefuihdhjcnwleiufh\Desktop\C#\NikitaB_GUN36_GUNPC\Коллекции\Коллекции\obj\Debug\Коллекции.pdb
+D:\jeruvhhfvhhhvuiwhefuihdhjcnwleiufh\Desktop\C#\NikitaB_GUN36_GUNPC\Коллекции\Коллекции\obj\Debug\Коллекции.exe.config
