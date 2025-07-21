@@ -8,6 +8,10 @@ namespace Коллекции
 {
     internal class Program
     {
+        class Number
+        {
+             public List<string> listOfInts = new List<string>();
+        }
         private class ListTask
         {
             private List<string> listOfInts = new List<string> {"5", "8", "64"};
@@ -19,7 +23,8 @@ namespace Коллекции
                     Console.WriteLine("Введите '-exit' чтоб выйти");
                     Console.Write("Введите значение для конца списка: ");
                     LOI = Console.ReadLine();
-                    if (LOI == "-exit" || LOI == "-Exit")
+                    LOI.Trim();
+                    if (LOI.ToLower() == "-exit")
                     {
                          break;
                     }
@@ -33,7 +38,8 @@ namespace Коллекции
                     Console.WriteLine("Введите '-exit' чтоб выйти");
                     Console.Write("Введите значение для середины списка: ");
                     LOI = Console.ReadLine();
-                    if (LOI == "-exit" || LOI == "-Exit")
+                    LOI.Trim();
+                    if (LOI.ToLower() == "-exit")
                     {
                         break;
                     }
@@ -75,6 +81,17 @@ namespace Коллекции
                     else
                     {
                         Console.WriteLine("Такого имение нет");
+                        Console.WriteLine("Хотите добавить?");
+                        if (Console.ReadLine().Trim().ToLower() == "да")
+                        {
+                            Console.WriteLine("Введите оценку ");
+                            int estimation = Convert.ToInt32(Console.ReadLine());
+                            if (estimation > 1 && estimation < 6)
+                            {
+                                dictionary[student] = estimation;
+                            }
+                        }
+                        else { Console.WriteLine("Студент не будет добавлен"); }
                     }
 
                     Console.WriteLine("Введите имя студента ");
@@ -93,19 +110,40 @@ namespace Коллекции
         }
         private class TwoLinkedList
         {
-            private List<string> listOfInts = new List<string>();
+            
             public void TaskLoop()
             {
-                Console.WriteLine("Введите 3 числа  через Enter");
-                listOfInts.Add(Console.ReadLine());
-                listOfInts.Add(Console.ReadLine());
-                listOfInts.Add(Console.ReadLine());
-                Console.WriteLine();
-                for (int i = listOfInts.Count - 1; i >= 0; i--)
-                {
-                    Console.WriteLine(listOfInts[i]);
-                }
+                Console.WriteLine("Введите 3 числа через Enter");
+                string chislo;
+                Number number = new Number();
                 
+                
+                for (int i = 0; i < 3; i++)
+                {
+                    chislo = Console.ReadLine();
+                    
+                    if (chislo.Trim() == "")
+                    {
+                        i--;
+                    }
+                    else
+                    {
+                        number.listOfInts.Add(chislo);
+                    }
+                }
+                { 
+                Console.WriteLine();
+                for (int i = 0; i < number.listOfInts.Count; i++)
+                {
+                    Console.WriteLine(number.listOfInts[i]);
+                }
+
+                Console.WriteLine();
+                for (int i = number.listOfInts.Count - 1; i >= 0; i--)
+                {
+                    Console.WriteLine(number.listOfInts[i]);
+                }
+                }//Выводы
             }
         }
 
