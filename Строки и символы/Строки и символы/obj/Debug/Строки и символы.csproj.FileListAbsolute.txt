@@ -1,0 +1,8 @@
+D:\jeruvhhfvhhhvuiwhefuihdhjcnwleiufh\Desktop\C#\NikitaB_GUN36_GUNPC\Строки и символы\Строки и символы\bin\Debug\Строки и символы.exe.config
+D:\jeruvhhfvhhhvuiwhefuihdhjcnwleiufh\Desktop\C#\NikitaB_GUN36_GUNPC\Строки и символы\Строки и символы\bin\Debug\Строки и символы.exe
+D:\jeruvhhfvhhhvuiwhefuihdhjcnwleiufh\Desktop\C#\NikitaB_GUN36_GUNPC\Строки и символы\Строки и символы\bin\Debug\Строки и символы.pdb
+D:\jeruvhhfvhhhvuiwhefuihdhjcnwleiufh\Desktop\C#\NikitaB_GUN36_GUNPC\Строки и символы\Строки и символы\obj\Debug\Строки и символы.csproj.AssemblyReference.cache
+D:\jeruvhhfvhhhvuiwhefuihdhjcnwleiufh\Desktop\C#\NikitaB_GUN36_GUNPC\Строки и символы\Строки и символы\obj\Debug\Строки и символы.csproj.CoreCompileInputs.cache
+D:\jeruvhhfvhhhvuiwhefuihdhjcnwleiufh\Desktop\C#\NikitaB_GUN36_GUNPC\Строки и символы\Строки и символы\obj\Debug\Строки и символы.exe
+D:\jeruvhhfvhhhvuiwhefuihdhjcnwleiufh\Desktop\C#\NikitaB_GUN36_GUNPC\Строки и символы\Строки и символы\obj\Debug\Строки и символы.pdb
+D:\jeruvhhfvhhhvuiwhefuihdhjcnwleiufh\Desktop\C#\NikitaB_GUN36_GUNPC\Строки и символы\Строки и символы\obj\Debug\Строки и символы.exe.config
