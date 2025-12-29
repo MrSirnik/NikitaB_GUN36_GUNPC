@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\FileSystemSaveLoadService\FileSystemSaveLoadService\obj\Debug\FileSystemSaveLoadService.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\FileSystemSaveLoadService\FileSystemSaveLoadService\obj\Debug\FileSystemSaveLoadService.csproj.CoreCompileInputs.cache
