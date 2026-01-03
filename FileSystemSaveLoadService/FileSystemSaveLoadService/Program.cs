@@ -5,26 +5,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace FileSystemSaveLoadService
+namespace Program
 {
-    public class FileSystemSaveLoadService : ISaveLoadService<string>
+    class Program
     {
-        public FileSystemSaveLoadService(string way)
+        static void Main()
         {
-            if (!File.Exists(way))
-            {
-                File.Create(way);
-            }
+
 
         }
-        public void SaveData(string data, string identifier)
-        {
-            File.WriteAllText(identifier, data, Encoding.UTF8);
-        }
-        public string LoadData(string identifier)
-        {
-            return File.ReadAllText(identifier, Encoding.UTF8);
-        }
-
     }
 }
+

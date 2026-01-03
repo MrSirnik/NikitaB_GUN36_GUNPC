@@ -1,2 +1,9 @@
 C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\FileSystemSaveLoadService\FileSystemSaveLoadService\obj\Debug\FileSystemSaveLoadService.csproj.AssemblyReference.cache
 C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\FileSystemSaveLoadService\FileSystemSaveLoadService\obj\Debug\FileSystemSaveLoadService.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\FileSystemSaveLoadService\FileSystemSaveLoadService\obj\Debug\FileSystemSaveLoadService.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\FileSystemSaveLoadService\FileSystemSaveLoadService\obj\Debug\FileSystemSaveLoadService.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\FileSystemSaveLoadService\FileSystemSaveLoadService\bin\Debug\FileSystemSaveLoadService.exe.config
+C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\FileSystemSaveLoadService\FileSystemSaveLoadService\bin\Debug\FileSystemSaveLoadService.exe
+C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\FileSystemSaveLoadService\FileSystemSaveLoadService\bin\Debug\FileSystemSaveLoadService.pdb
+C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\FileSystemSaveLoadService\FileSystemSaveLoadService\obj\Debug\FileSystemSaveLoadService.exe
+C:\Users\New\Desktop\NikitaB_GUN36_GUNPC\FileSystemSaveLoadService\FileSystemSaveLoadService\obj\Debug\FileSystemSaveLoadService.pdb
