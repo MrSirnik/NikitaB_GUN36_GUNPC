@@ -1,44 +1,47 @@
 ﻿using System;
 
-public struct Dice
+namespace FileSystemSaveLoadService
 {
-    public int number
+    public struct Dice
     {
-        get
+        public int Number
         {
-            Random rn = new Random();
-            return rn.Next(_min, _max + 1 );
-        }
-    };
+            get
+            {
+                Random rn = new Random();
+                return rn.Next(_min, _max + 1);
+            }
+        };
 
-    private int _min;
-    private int _max;
+        private int _min;
+        private int _max;
 
-    public Dice( int min, int max )
-    {
-        if (min < 1 || min > int.MaxValue)
+        public Dice(int min, int max)
         {
-            //исключение
-            Console.WriteLine($"Некорректное значение: {min}." +
-                $" Допустимый диапазон: от {1} до {int.MaxValue}");
+            if (min < 1 || min > int.MaxValue)
+            {
+                //исключение
+                Console.WriteLine($"Некорректное значение: {min}." +
+                    $" Допустимый диапазон: от {1} до {int.MaxValue}");
+            }
+
+            else if (max < 1 || max > int.MaxValue)
+            {
+                //исключение
+                Console.WriteLine($"Некорректное значение: {max}." +
+                    $" Допустимый диапазон: от {1} до {int.MaxValue}");
+            }
+
+            else
+            {
+                _min = min;
+                _max = max;
+            }
         }
 
-        else if (max < 1 || max > int.MaxValue)
+        public override readonly string ToString()
         {
-            //исключение
-            Console.WriteLine($"Некорректное значение: {max}." +
-                $" Допустимый диапазон: от {1} до {int.MaxValue}");
+            return $"Dice({_min}-{_max}): {number}";
         }
-
-        else
-        {
-            _min = min;
-            _max = max;
-        }
-    }
-
-    public override readonly string ToString()
-    {
-        return $"Dice({_min}-{_max}): {number}";
     }
 }

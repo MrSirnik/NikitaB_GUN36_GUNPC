@@ -1,9 +1,13 @@
 ﻿using System;
 
-enum EnumSuits
+namespace FileSystemSaveLoadService
 {
-    Hearts,
-    Diamonds,
-    Spades,
-    Clubs
+    public enum EnumSuits
+    {
+        Hearts,
+        Diamonds,
+        Spades,
+        Clubs
+    }
 }
+

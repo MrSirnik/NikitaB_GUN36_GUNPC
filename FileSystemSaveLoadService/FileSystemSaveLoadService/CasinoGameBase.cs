@@ -1,0 +1,39 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace FileSystemSaveLoadService
+{
+    abstract class CasinoGameBase
+    {
+        public CasinoGameBase()
+        {
+            FactoryMethod();
+        }
+        
+        public abstract void PlayGame();
+
+        public delegate void EventMessage(string message);
+
+        public event EventMessage OnWin;
+        public event EventMessage OnLoose;
+        public event EventMessage OnDraw;
+
+        public void OnWinInvoke()
+        {
+            OnWin?.Invoke("Вы выйграли!");
+        }
+        public void OnLooseInvoke()
+        {
+            OnLoose?.Invoke("Вы проиграли!");
+        }
+        public void OnDrawInvoke()
+        {
+            OnDraw?.Invoke("Ничья");
+        }
+
+        protected abstract void FactoryMethod();
+    }
+}

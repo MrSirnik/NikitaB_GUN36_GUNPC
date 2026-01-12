@@ -18,13 +18,15 @@ namespace FileSystemSaveLoadService
             }
 
         }
-        public void SaveData(string data, string identifier)
+
+        public void SaveData(string data, string way)//, string identifier)
         {
-            File.WriteAllText(identifier, data, Encoding.UTF8);
+            File.WriteAllText(way, data, Encoding.UTF8);
         }
-        public string LoadData(string identifier)
+
+        public string LoadData(string way)//, string identifier)
         {
-            return File.ReadAllText(identifier, Encoding.UTF8);
+            return File.ReadAllText(way, Encoding.UTF8);
         }
 
     }

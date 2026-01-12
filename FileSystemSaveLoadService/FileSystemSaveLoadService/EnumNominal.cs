@@ -1,14 +1,18 @@
 ﻿using System;
 
-enum EnumNominal
+namespace FileSystemSaveLoadService
 {
-    6,
-    7,
-    8,
-    9,
-    10,
-    J,
-    Q,
-    K,
-    A
+    public enum EnumNominal
+    {
+        Six,
+        Seven,
+        Eight,
+        Nine,
+        Ten,
+        Jack,     // Валет
+        Queen,    // Дама
+        King,     // Король
+        Ace       // Туз
+    }
 }
+
