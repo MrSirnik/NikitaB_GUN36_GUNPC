@@ -6,8 +6,10 @@ using System.Text;
 
 namespace FileSystemSaveLoadService
 {
-    internal class Blackjack: CasinoGameBase
+    internal class Blackjack : CasinoGameBase
     {
+        private static Random rng = new Random();
+
         public List<Card> cards = new List<Card>();
         private Queue<Card> _deck = new Queue<Card>();//колода карт
 
@@ -16,9 +18,22 @@ namespace FileSystemSaveLoadService
 
         }
 
-        private void Shuffle()
+        public void Shuffle()
         {
+            List<Card> cards = new List<Card>(this.cards);
 
+            int n = cards.Count;
+
+            while (n > 1)
+            {
+                n--;
+                int k = rng.Next(n + 1);
+                Card value = cards[k];
+                cards[k] = cards[n];
+                cards[n] = value;
+            }
+
+            _deck = new Queue<Card>(cards);
         }
 
         public override void PlayGame()

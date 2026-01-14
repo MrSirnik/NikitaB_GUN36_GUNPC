@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\filesystemsaveloadservice\\blackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|c:\\users\\user\\desktop\\nikitab_gun36_gunpc\\filesystemsaveloadservice\\filesystemsaveloadservice\\blackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|solutionrelative:filesystemsaveloadservice\\blackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -60,7 +60,7 @@
               "RelativeDocumentMoniker": "FileSystemSaveLoadService\\Blackjack.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\Blackjack.cs",
               "RelativeToolTip": "FileSystemSaveLoadService\\Blackjack.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T06:34:24.699Z",
               "EditorCaption": ""
@@ -75,8 +75,7 @@
               "RelativeToolTip": "FileSystemSaveLoadService\\CasinoGameBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T05:28:25.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T05:28:25.766Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "FileSystemSaveLoadService\\WrongDiceNumberException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T08:43:19.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T08:43:19.117Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "FileSystemSaveLoadService\\Card.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T08:42:53.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T08:42:53.386Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "FileSystemSaveLoadService\\Dice.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T08:43:19.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T08:43:19.211Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "RelativeToolTip": "FileSystemSaveLoadService\\EnumNominal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T08:43:18.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T08:43:18.807Z"
             },
             {
               "$type": "Document",
@@ -140,8 +135,7 @@
               "RelativeToolTip": "FileSystemSaveLoadService\\EnumSuits.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T08:43:18.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T08:43:18.924Z"
             },
             {
               "$type": "Document",
@@ -153,8 +147,7 @@
               "RelativeToolTip": "FileSystemSaveLoadService\\FileSystemSaveLoadService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T08:43:19.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T08:43:19.019Z"
             },
             {
               "$type": "Document",
@@ -166,8 +159,7 @@
               "RelativeToolTip": "FileSystemSaveLoadService\\ISaveLoadService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T09:20:45.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T09:20:45.803Z"
             },
             {
               "$type": "Document",
@@ -179,8 +171,7 @@
               "RelativeToolTip": "FileSystemSaveLoadService\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T08:21:00.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T08:21:00.399Z"
             }
           ]
         }
