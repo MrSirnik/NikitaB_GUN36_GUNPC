@@ -12,7 +12,9 @@ namespace Program
     {
         static void Main()
         {
+            Blackjack blackjack = new Blackjack(3);
 
+            blackjack.PlayGame();
         }
     }
 }

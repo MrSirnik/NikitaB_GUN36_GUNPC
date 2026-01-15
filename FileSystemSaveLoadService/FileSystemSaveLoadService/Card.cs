@@ -5,15 +5,15 @@ namespace FileSystemSaveLoadService
     public struct Card
     {
 
-        readonly EnumSuits suits;
-        readonly EnumNominal nominal;
+        public readonly EnumSuits suits;
+        public readonly EnumNominal nominal;
 
         public Card(EnumSuits suits, EnumNominal nominal)
         {
             this.suits = suits;
             this.nominal = nominal;
         }
-        public void ToString()
+        public void String()
         {
             Console.WriteLine(suits); 
             Console.WriteLine(nominal); 

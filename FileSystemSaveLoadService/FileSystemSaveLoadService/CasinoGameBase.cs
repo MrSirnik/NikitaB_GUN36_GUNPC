@@ -24,14 +24,17 @@ namespace FileSystemSaveLoadService
         public void OnWinInvoke()
         {
             OnWin?.Invoke("Вы выйграли!");
+            Console.WriteLine("Вы выйграли!");
         }
         public void OnLooseInvoke()
         {
             OnLoose?.Invoke("Вы проиграли!");
+            Console.WriteLine("Вы проиграли!");
         }
         public void OnDrawInvoke()
         {
             OnDraw?.Invoke("Ничья");
+            Console.WriteLine("Ничья");
         }
 
         protected abstract void FactoryMethod();

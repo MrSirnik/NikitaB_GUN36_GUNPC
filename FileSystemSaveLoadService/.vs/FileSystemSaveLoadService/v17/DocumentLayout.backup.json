@@ -1,46 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\",
+  "WorkspaceRootPath": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\filesystemsaveloadservice\\blackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|c:\\users\\new\\desktop\\nikitab_gun36_gunpc\\filesystemsaveloadservice\\filesystemsaveloadservice\\blackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|solutionrelative:filesystemsaveloadservice\\blackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\filesystemsaveloadservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|solutionrelative:filesystemsaveloadservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\Card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|solutionrelative:FileSystemSaveLoadService\\Card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\EnumSuits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|solutionrelative:FileSystemSaveLoadService\\EnumSuits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\filesystemsaveloadservice\\casinogamebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|c:\\users\\new\\desktop\\nikitab_gun36_gunpc\\filesystemsaveloadservice\\filesystemsaveloadservice\\casinogamebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|solutionrelative:filesystemsaveloadservice\\casinogamebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\WrongDiceNumberException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileSystemSaveLoadService\\WrongDiceNumberException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|c:\\users\\new\\desktop\\nikitab_gun36_gunpc\\filesystemsaveloadservice\\filesystemsaveloadservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|solutionrelative:filesystemsaveloadservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\EnumNominal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|solutionrelative:FileSystemSaveLoadService\\EnumNominal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|c:\\users\\new\\desktop\\nikitab_gun36_gunpc\\filesystemsaveloadservice\\filesystemsaveloadservice\\enumnominal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|solutionrelative:filesystemsaveloadservice\\enumnominal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\Dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileSystemSaveLoadService\\Dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\filesystemsaveloadservice\\isaveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|c:\\users\\new\\desktop\\nikitab_gun36_gunpc\\filesystemsaveloadservice\\filesystemsaveloadservice\\isaveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|solutionrelative:filesystemsaveloadservice\\isaveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\FileSystemSaveLoadService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileSystemSaveLoadService\\FileSystemSaveLoadService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|c:\\users\\new\\desktop\\nikitab_gun36_gunpc\\filesystemsaveloadservice\\filesystemsaveloadservice\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|solutionrelative:filesystemsaveloadservice\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|c:\\users\\new\\desktop\\nikitab_gun36_gunpc\\filesystemsaveloadservice\\filesystemsaveloadservice\\enumsuits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FileSystemSaveLoadService\\FileSystemSaveLoadService.csproj|solutionrelative:filesystemsaveloadservice\\enumsuits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,136 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\Card.cs",
+              "RelativeDocumentMoniker": "FileSystemSaveLoadService\\Card.cs",
+              "ToolTip": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\Card.cs",
+              "RelativeToolTip": "FileSystemSaveLoadService\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T05:29:37.227Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Blackjack.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\Blackjack.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\Blackjack.cs",
               "RelativeDocumentMoniker": "FileSystemSaveLoadService\\Blackjack.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\Blackjack.cs",
+              "ToolTip": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\Blackjack.cs",
               "RelativeToolTip": "FileSystemSaveLoadService\\Blackjack.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAmwGAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T06:34:24.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CasinoGameBase.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\CasinoGameBase.cs",
-              "RelativeDocumentMoniker": "FileSystemSaveLoadService\\CasinoGameBase.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\CasinoGameBase.cs",
-              "RelativeToolTip": "FileSystemSaveLoadService\\CasinoGameBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T05:28:25.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WrongDiceNumberException.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\WrongDiceNumberException.cs",
-              "RelativeDocumentMoniker": "FileSystemSaveLoadService\\WrongDiceNumberException.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\WrongDiceNumberException.cs",
-              "RelativeToolTip": "FileSystemSaveLoadService\\WrongDiceNumberException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T08:43:19.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Card.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\Card.cs",
-              "RelativeDocumentMoniker": "FileSystemSaveLoadService\\Card.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\Card.cs",
-              "RelativeToolTip": "FileSystemSaveLoadService\\Card.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T08:42:53.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Dice.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\Dice.cs",
-              "RelativeDocumentMoniker": "FileSystemSaveLoadService\\Dice.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\Dice.cs",
-              "RelativeToolTip": "FileSystemSaveLoadService\\Dice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T08:43:19.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EnumNominal.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\EnumNominal.cs",
-              "RelativeDocumentMoniker": "FileSystemSaveLoadService\\EnumNominal.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\EnumNominal.cs",
-              "RelativeToolTip": "FileSystemSaveLoadService\\EnumNominal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T08:43:18.807Z",
+              "WhenOpened": "2026-01-14T05:29:32.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "EnumNominal.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\EnumNominal.cs",
+              "RelativeDocumentMoniker": "FileSystemSaveLoadService\\EnumNominal.cs",
+              "ToolTip": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\EnumNominal.cs",
+              "RelativeToolTip": "FileSystemSaveLoadService\\EnumNominal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T05:29:43.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "EnumSuits.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\EnumSuits.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\EnumSuits.cs",
               "RelativeDocumentMoniker": "FileSystemSaveLoadService\\EnumSuits.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\EnumSuits.cs",
+              "ToolTip": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\EnumSuits.cs",
               "RelativeToolTip": "FileSystemSaveLoadService\\EnumSuits.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T08:43:18.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FileSystemSaveLoadService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\FileSystemSaveLoadService.cs",
-              "RelativeDocumentMoniker": "FileSystemSaveLoadService\\FileSystemSaveLoadService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\FileSystemSaveLoadService.cs",
-              "RelativeToolTip": "FileSystemSaveLoadService\\FileSystemSaveLoadService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T08:43:19.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ISaveLoadService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\ISaveLoadService.cs",
-              "RelativeDocumentMoniker": "FileSystemSaveLoadService\\ISaveLoadService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\ISaveLoadService.cs",
-              "RelativeToolTip": "FileSystemSaveLoadService\\ISaveLoadService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T09:20:45.803Z",
+              "WhenOpened": "2026-01-14T05:29:46.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\Program.cs",
-              "RelativeDocumentMoniker": "FileSystemSaveLoadService\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\Program.cs",
-              "RelativeToolTip": "FileSystemSaveLoadService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Title": "CasinoGameBase.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\CasinoGameBase.cs",
+              "RelativeDocumentMoniker": "FileSystemSaveLoadService\\CasinoGameBase.cs",
+              "ToolTip": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\CasinoGameBase.cs",
+              "RelativeToolTip": "FileSystemSaveLoadService\\CasinoGameBase.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T08:21:00.399Z",
+              "WhenOpened": "2026-01-14T05:29:40.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\Program.cs",
+              "RelativeDocumentMoniker": "FileSystemSaveLoadService\\Program.cs",
+              "ToolTip": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\Program.cs",
+              "RelativeToolTip": "FileSystemSaveLoadService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T05:29:49.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISaveLoadService.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\ISaveLoadService.cs",
+              "RelativeDocumentMoniker": "FileSystemSaveLoadService\\ISaveLoadService.cs",
+              "ToolTip": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FileSystemSaveLoadService\\FileSystemSaveLoadService\\ISaveLoadService.cs",
+              "RelativeToolTip": "FileSystemSaveLoadService\\ISaveLoadService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T05:29:48.405Z",
               "EditorCaption": ""
             }
           ]
