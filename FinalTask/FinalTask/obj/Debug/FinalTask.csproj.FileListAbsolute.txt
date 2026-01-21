@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\FinalTask\FinalTask\obj\Debug\FinalTask.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\FinalTask\FinalTask\obj\Debug\FinalTask.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\FinalTask\FinalTask\obj\Debug\FileSystemSaveLoadService.exe
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\FinalTask\FinalTask\obj\Debug\FileSystemSaveLoadService.pdb
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\FinalTask\FinalTask\bin\Debug\FileSystemSaveLoadService.exe.config
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\FinalTask\FinalTask\bin\Debug\FileSystemSaveLoadService.exe
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\FinalTask\FinalTask\bin\Debug\FileSystemSaveLoadService.pdb
+C:\Users\user\Desktop\NikitaB_GUN36_GUNPC\FinalTask\FinalTask\obj\Debug\FileSystemSaveLoadService.exe.config
