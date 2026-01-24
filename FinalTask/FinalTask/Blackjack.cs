@@ -206,7 +206,7 @@ namespace FinalTask
 
         public void ListOutput(List<Card> list, string name)
         {
-            Console.WriteLine("Вывод списка - " + name);
+            //Console.WriteLine("Вывод списка - " + name);
 
             foreach (Card item in list)
             {

@@ -8,6 +8,8 @@ namespace FinalTask
 {
     abstract class CasinoGameBase
     {
+        private int bet;
+
         public CasinoGameBase()
         {
             FactoryMethod();
