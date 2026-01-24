@@ -1,38 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\",
+  "WorkspaceRootPath": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|c:\\users\\user\\desktop\\nikitab_gun36_gunpc\\finaltask\\finaltask\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\finaltask\\thedicegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\thedicegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|c:\\users\\user\\desktop\\nikitab_gun36_gunpc\\finaltask\\finaltask\\isaveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\isaveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|c:\\users\\user\\desktop\\nikitab_gun36_gunpc\\finaltask\\finaltask\\casino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\casino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|c:\\users\\user\\desktop\\nikitab_gun36_gunpc\\finaltask\\finaltask\\wrongdicenumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\wrongdicenumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|c:\\users\\user\\desktop\\nikitab_gun36_gunpc\\finaltask\\finaltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|c:\\users\\user\\desktop\\nikitab_gun36_gunpc\\finaltask\\finaltask\\filesystemsaveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|c:\\users\\new\\desktop\\nikitab_gun36_gunpc\\finaltask\\finaltask\\filesystemsaveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\filesystemsaveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|c:\\users\\user\\desktop\\nikitab_gun36_gunpc\\finaltask\\finaltask\\igame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|c:\\users\\new\\desktop\\nikitab_gun36_gunpc\\finaltask\\finaltask\\casino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\casino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|c:\\users\\new\\desktop\\nikitab_gun36_gunpc\\finaltask\\finaltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|c:\\users\\new\\desktop\\nikitab_gun36_gunpc\\finaltask\\finaltask\\blackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\blackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|c:\\users\\new\\desktop\\nikitab_gun36_gunpc\\finaltask\\finaltask\\casinogamebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\casinogamebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|c:\\users\\new\\desktop\\nikitab_gun36_gunpc\\finaltask\\finaltask\\thedicegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\thedicegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|c:\\users\\new\\desktop\\nikitab_gun36_gunpc\\finaltask\\finaltask\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|c:\\users\\new\\desktop\\nikitab_gun36_gunpc\\finaltask\\finaltask\\igame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\igame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|c:\\users\\new\\desktop\\nikitab_gun36_gunpc\\finaltask\\finaltask\\wrongdicenumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BE1AB1-D91B-41F2-A416-F31AF1C6D31F}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\wrongdicenumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\Program.cs",
-              "RelativeDocumentMoniker": "FinalTask\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\Program.cs",
-              "RelativeToolTip": "FinalTask\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T07:00:21.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Casino.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\Casino.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\Casino.cs",
               "RelativeDocumentMoniker": "FinalTask\\Casino.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\Casino.cs",
+              "ToolTip": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\Casino.cs",
               "RelativeToolTip": "FinalTask\\Casino.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T06:57:15.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FileSystemSaveLoadService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\FileSystemSaveLoadService.cs",
-              "RelativeDocumentMoniker": "FinalTask\\FileSystemSaveLoadService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\FileSystemSaveLoadService.cs",
-              "RelativeToolTip": "FinalTask\\FileSystemSaveLoadService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T06:57:09.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ISaveLoadService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\ISaveLoadService.cs",
-              "RelativeDocumentMoniker": "FinalTask\\ISaveLoadService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\ISaveLoadService.cs",
-              "RelativeToolTip": "FinalTask\\ISaveLoadService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T06:57:08.406Z",
+              "WhenOpened": "2026-01-22T05:54:02.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Dice.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\Dice.cs",
-              "RelativeDocumentMoniker": "FinalTask\\Dice.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\Dice.cs",
-              "RelativeToolTip": "FinalTask\\Dice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Title": "FileSystemSaveLoadService.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\FileSystemSaveLoadService.cs",
+              "RelativeDocumentMoniker": "FinalTask\\FileSystemSaveLoadService.cs",
+              "ToolTip": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\FileSystemSaveLoadService.cs",
+              "RelativeToolTip": "FinalTask\\FileSystemSaveLoadService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T07:01:09.629Z",
+              "WhenOpened": "2026-01-22T05:59:45.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TheDiceGame.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\TheDiceGame.cs",
-              "RelativeDocumentMoniker": "FinalTask\\TheDiceGame.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\TheDiceGame.cs",
-              "RelativeToolTip": "FinalTask\\TheDiceGame.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Blackjack.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\Blackjack.cs",
+              "RelativeDocumentMoniker": "FinalTask\\Blackjack.cs",
+              "ToolTip": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\Blackjack.cs",
+              "RelativeToolTip": "FinalTask\\Blackjack.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAawD0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T06:41:16.265Z",
+              "WhenOpened": "2026-01-22T09:04:18.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\Program.cs",
+              "RelativeDocumentMoniker": "FinalTask\\Program.cs",
+              "ToolTip": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\Program.cs",
+              "RelativeToolTip": "FinalTask\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T05:22:22.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WrongDiceNumberException.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\WrongDiceNumberException.cs",
+              "RelativeDocumentMoniker": "FinalTask\\WrongDiceNumberException.cs",
+              "ToolTip": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\WrongDiceNumberException.cs",
+              "RelativeToolTip": "FinalTask\\WrongDiceNumberException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T05:48:19.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CasinoGameBase.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\CasinoGameBase.cs",
+              "RelativeDocumentMoniker": "FinalTask\\CasinoGameBase.cs",
+              "ToolTip": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\CasinoGameBase.cs",
+              "RelativeToolTip": "FinalTask\\CasinoGameBase.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T05:22:07.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TheDiceGame.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\TheDiceGame.cs",
+              "RelativeDocumentMoniker": "FinalTask\\TheDiceGame.cs",
+              "ToolTip": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\TheDiceGame.cs",
+              "RelativeToolTip": "FinalTask\\TheDiceGame.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowD4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T05:22:24.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dice.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\Dice.cs",
+              "RelativeDocumentMoniker": "FinalTask\\Dice.cs",
+              "ToolTip": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\Dice.cs",
+              "RelativeToolTip": "FinalTask\\Dice.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T05:22:02.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "IGame.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\IGame.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\IGame.cs",
               "RelativeDocumentMoniker": "FinalTask\\IGame.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\IGame.cs",
+              "ToolTip": "C:\\Users\\New\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\IGame.cs",
               "RelativeToolTip": "FinalTask\\IGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T06:43:38.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WrongDiceNumberException.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\WrongDiceNumberException.cs",
-              "RelativeDocumentMoniker": "FinalTask\\WrongDiceNumberException.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\NikitaB_GUN36_GUNPC\\FinalTask\\FinalTask\\WrongDiceNumberException.cs",
-              "RelativeToolTip": "FinalTask\\WrongDiceNumberException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T07:06:54.112Z",
+              "WhenOpened": "2026-01-22T05:53:50.857Z",
               "EditorCaption": ""
             }
           ]

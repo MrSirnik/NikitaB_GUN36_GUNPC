@@ -9,7 +9,8 @@ namespace FinalTask
 {
     public class FileSystemSaveLoadService : ISaveLoadService<string>
     {
-
+        //public string data;
+        //public string way;
         public FileSystemSaveLoadService(string way)
         {
             if (!File.Exists(way))

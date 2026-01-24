@@ -2,7 +2,7 @@
 
 namespace FinalTask
 {
-    public struct Dice
+    public class Dice //переделать в структуру
     {
         private int _min;
         private int _max;
@@ -38,11 +38,6 @@ namespace FinalTask
                 _min = min;
                 _max = max;
             }
-        }
-
-        public override string ToString()
-        {
-            return $"Dice({_min}-{_max}): {Number}";
         }
     }
 }

@@ -18,9 +18,9 @@ namespace FinalTask
             Casino casino = new Casino();
             casino.StartGame();
 
-            TheDiceGame theDiceGame = new TheDiceGame(3, 1 , 6);
+            //TheDiceGame theDiceGame = new TheDiceGame(3, 1, 6);
 
-            theDiceGame.PlayGame();
+            //theDiceGame.PlayGame();
         }
     }
 }

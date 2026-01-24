@@ -9,27 +9,26 @@ namespace FinalTask
 {
     internal class TheDiceGame : CasinoGameBase
     {
-        private static Random rng = new Random();
-        private Dice dice = new Dice();
+        private static Random _rng = new Random();
 
-        private int quantity;
-        private int min;
-        private int max;
+        private int _quantity;
+        private int _min;
+        private int _max;
 
         private Queue<int> dice_player = new Queue<int>();
         private Queue<int> dice_PC = new Queue<int>();
 
         public TheDiceGame(int quantity, int min, int max)
         {
-            this.quantity = quantity;
-
-            //переделпть с использованием Dice
-            this.min = min;
-            this.max = max;
+            this._quantity = quantity;
+            this._min = min;
+            this._max = max;
         }
 
         public override void PlayGame()
         {
+            
+
             int points_player = 0;
             int points_PC = 0;
 
@@ -61,13 +60,16 @@ namespace FinalTask
 
         protected override void FactoryMethod()
         {
+            //Dice dice = new Dice(_min, _max);
             List<int> dice_player = new List<int>();
             List<int> dice_PC = new List<int>();
 
-            for (int i = 0; i < quantity; i++)
+            for (int i = 0; i < _quantity; i++)
             {
-                dice_player.Add(rng.Next(min, max + 1));
-                dice_PC.Add(rng.Next(min, max + 1));
+                dice_player.Add(_rng.Next(_min, _max + 1));
+                dice_PC.Add(_rng.Next(_min, _max + 1));
+                //dice_player.Add(dice.Number);
+                //dice_PC.Add(dice.Number);
             }
 
             this.dice_player = new Queue<int>(dice_player);
